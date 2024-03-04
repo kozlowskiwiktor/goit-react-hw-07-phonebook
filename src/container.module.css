@@ -1,0 +1,15 @@
+p,
+button,
+label {
+  margin-inline: 0.25rem;
+}
+div,
+input {
+  margin-right: 1rem;
+}
+
+.container {
+  margin-right: 1rem;
+  margin-block: 1rem;
+  margin-inline: 0.25rem;
+}
